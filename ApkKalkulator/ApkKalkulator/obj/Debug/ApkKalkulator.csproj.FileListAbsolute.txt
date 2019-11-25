@@ -1,0 +1,11 @@
+E:\KULIAH\SEM III\PEMROG\ApkKalkulator\ApkKalkulator\obj\Debug\ApkKalkulator.csprojAssemblyReference.cache
+E:\KULIAH\SEM III\PEMROG\ApkKalkulator\ApkKalkulator\obj\Debug\ApkKalkulator.frmHasilHitung.resources
+E:\KULIAH\SEM III\PEMROG\ApkKalkulator\ApkKalkulator\obj\Debug\ApkKalkulator.Properties.Resources.resources
+E:\KULIAH\SEM III\PEMROG\ApkKalkulator\ApkKalkulator\obj\Debug\ApkKalkulator.csproj.GenerateResource.cache
+E:\KULIAH\SEM III\PEMROG\ApkKalkulator\ApkKalkulator\obj\Debug\ApkKalkulator.csproj.CoreCompileInputs.cache
+E:\KULIAH\SEM III\PEMROG\ApkKalkulator\ApkKalkulator\obj\Debug\ApkKalkulator.frmCalculator.resources
+E:\KULIAH\SEM III\PEMROG\ApkKalkulator\ApkKalkulator\bin\Debug\ApkKalkulator.exe.config
+E:\KULIAH\SEM III\PEMROG\ApkKalkulator\ApkKalkulator\bin\Debug\ApkKalkulator.exe
+E:\KULIAH\SEM III\PEMROG\ApkKalkulator\ApkKalkulator\bin\Debug\ApkKalkulator.pdb
+E:\KULIAH\SEM III\PEMROG\ApkKalkulator\ApkKalkulator\obj\Debug\ApkKalkulator.exe
+E:\KULIAH\SEM III\PEMROG\ApkKalkulator\ApkKalkulator\obj\Debug\ApkKalkulator.pdb
